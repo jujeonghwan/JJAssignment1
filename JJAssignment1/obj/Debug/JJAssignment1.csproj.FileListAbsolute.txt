@@ -1,0 +1,6 @@
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\bin\Debug\JJAssignment1.exe.config
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\bin\Debug\JJAssignment1.exe
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\bin\Debug\JJAssignment1.pdb
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\obj\Debug\JJAssignment1.csprojAssemblyReference.cache
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\obj\Debug\JJAssignment1.exe
+D:\PROG2070\004.Assignments\Assignment1\JJAssignment1\JJAssignment1\obj\Debug\JJAssignment1.pdb
